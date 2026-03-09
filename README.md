@@ -27,7 +27,7 @@
 | Implement login authentication and menu options | Christian Sanchez, Charmane Claire Aquino |
 | Implement attendance processing and hours calculation | Christian Sanchez |
 | Integrate government deduction computations (SSS, PhilHealth, Pag-IBIG, Tax) | Christian Sanchez, Chloe Kirsten Silvestre |
-| Implement payroll computation and cutoff display (June–December) | Christian Sanchez, Charliemagne Padayao |
+| Implement payroll computation and cutoff display (June–December) | Christian Sanchez |
 | Test the payroll system with sample employee data | All Members |
 | Debug and fix program errors | All Members |
 | Check code for errors and verify payroll computation | All Members |
